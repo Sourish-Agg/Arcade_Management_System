@@ -1,0 +1,6 @@
+com/managment/arcade/controller/PrizeRedemptionController.class
+com/managment/arcade/controller/StaffAssignmentController.class
+main/java/com/managment/arcade/controller/ArcadeMachineController.class
+com/managment/arcade/controller/EventBookingController.class
+main/java/com/managment/arcade/ArcadeServiceApplication.class
+com/managment/arcade/controller/CustomerController.class
