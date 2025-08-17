@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#How to run
+1)zip file ki trha download krlena, ya fir "code button"(green button) pr jaakr, "github CLI" pr click krke clone krlena vscode ke terminal pr
+2) run the command "mvn clean install"
+3) run th command "mvn spring-boot:run"
+4)type "http://localhost:9900/events/bookings" on borwoser
